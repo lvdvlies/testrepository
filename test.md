@@ -5,5 +5,5 @@
 ![dit is een afbeelding van een appel](appel.jpg)
 
 - dit is een
-- dit is twee
-- 
+- dit is twee  
+- dit is drie  
